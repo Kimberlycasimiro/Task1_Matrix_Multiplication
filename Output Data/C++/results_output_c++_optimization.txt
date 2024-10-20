@@ -1,0 +1,30 @@
+Matrix size: 64x64
+Average Execution Time: 1.14112 ms
+Average Memory Usage: 0 MB
+Average CPU Usage: 82.8851 %
+------------------------------------
+Matrix size: 128x128
+Average Execution Time: 10.8203 ms
+Average Memory Usage: 0.128906 MB
+Average CPU Usage: 52.7048 %
+------------------------------------
+Matrix size: 256x256
+Average Execution Time: 79.9223 ms
+Average Memory Usage: 0.515625 MB
+Average CPU Usage: 51.299 %
+------------------------------------
+Matrix size: 512x512
+Average Execution Time: 652.586 ms
+Average Memory Usage: 2.0625 MB
+Average CPU Usage: 54.5086 %
+------------------------------------
+Matrix size: 1024x1024
+Average Execution Time: 6637.18 ms
+Average Memory Usage: 8.08594 MB
+Average CPU Usage: 55.3541 %
+------------------------------------
+Matrix size: 2048x2048
+Average Execution Time: 62253.1 ms
+Average Memory Usage: 32.125 MB
+Average CPU Usage: 55.5775 %
+------------------------------------
